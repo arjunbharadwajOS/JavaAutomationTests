@@ -32,3 +32,10 @@ Once the execution completes report & log will be generated in below folder.
 
 **Report:** 		*target/report*<br>
 **Log:** 		*target/logs*
+
+Extent Reports Screenshot:
+![image](https://github.com/user-attachments/assets/be1a0d9e-c6e6-422f-b675-d1a109a30acb)
+
+Log Report: 
+![image](https://github.com/user-attachments/assets/c6d28c43-e89e-416f-b54b-b6b3695feb2a)
+
